@@ -454,7 +454,7 @@ export default function HackathonForm() {
                   <a href="#" onClick={(e) => e.preventDefault()}>
                     Kebijakan Privasi
                   </a>{" "}
-                  HackFest 2025. Saya memahami bahwa data yang saya berikan akan
+                  HackFest 2026. Saya memahami bahwa data yang saya berikan akan
                   digunakan untuk keperluan registrasi event.
                 </span>
               </label>
