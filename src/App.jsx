@@ -195,7 +195,7 @@ export default function HackathonForm() {
       <div className="form-wrapper">
         {/* ---- HEADER ---- */}
         <div className="form-header">
-          <div className="form-badge">▶ HackFest 2025 Open</div>
+          <div className="form-badge">▶ HackFest 2026 Open</div>
           <h1 className="form-title">Registrasi Peserta<br />Hackathon</h1>
           <p className="form-subtitle">
             48 jam • <span>Inovasi Tanpa Batas</span> • Jakarta, Indonesia
